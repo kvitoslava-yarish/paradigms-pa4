@@ -1,0 +1,3 @@
+C:/Users/kvita/CLionProjects/paradigms-pa-4/cmake-build-debug/CMakeFiles/paradigms_pa4.dir
+C:/Users/kvita/CLionProjects/paradigms-pa-4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kvita/CLionProjects/paradigms-pa-4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

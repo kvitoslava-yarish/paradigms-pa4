@@ -1,0 +1,10 @@
+#ifndef PARADIGMS_PA4_TEXTEDITOR_H
+#define PARADIGMS_PA4_TEXTEDITOR_H
+
+
+class TextEditor {
+
+};
+
+
+#endif //PARADIGMS_PA4_TEXTEDITOR_H
